@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Control_Juego.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Movimiento.cs" Line="12" Column="29" />
+      <File FileName="Assets\Scripts\Zombiev2.cs" Line="83" Column="8" />
+      <File FileName="Assets\Scripts\Generadorv3.cs" Line="31" Column="40" />
+      <File FileName="Assets\Scripts\Constructor.cs" Line="40" Column="22" />
+      <File FileName="Assets\Scripts\Bala.cs" Line="34" Column="1" />
+      <File FileName="Assets\Scripts\Player_stats.cs" Line="4" Column="22" />
+      <File FileName="Assets\Control_Juego.cs" Line="42" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
